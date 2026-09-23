@@ -317,13 +317,13 @@ The dashboard provides analysis of:
 ```text
 Laptop-Market-Analytics-AI/
 │
-├── Hajmina Patel_LaptopPricePredictor.py
+├── Hajmina_LaptopPricePredictor.py
 │
 ├── requirements.txt
 │
 ├── README.md
 │
-├── Project_Report.docx
+├── Hajmina_Project_Report.docx
 │
 └──Dataset.csv
 ```
