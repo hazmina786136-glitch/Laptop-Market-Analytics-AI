@@ -1,0 +1,501 @@
+Laptop_ID,Brand,Model,Processor,RAM_GB,Storage_Type,Storage_GB,GPU,Screen_Size,Operating_System,Weight_KG,Battery_Hours,Warranty_Months,Customer_Segment,Region,Price
+LAP0001,Dell,Latitude 14,Intel i3,16,SSD,512,Integrated,13.3,Windows 11,1.29,9.2,12,Student,East,51312.26
+LAP0002,Dell,Latitude 14,Intel i3,16,HDD,1024,Integrated,14.0,Linux,1.28,6.0,24,Gaming,South,48454.86
+LAP0003,Dell,Vostro 15,AMD Ryzen 3,16,SSD,512,AMD Radeon,16.0,Windows 11,1.99,9.1,6,Professional,East,55991.65
+LAP0004,Dell,Inspiron 15,AMD Ryzen 3,8,SSD,512,NVIDIA GTX,15.6,Linux,1.7,8.3,24,Professional,South,53930.68
+LAP0005,Dell,Latitude 14,Intel i7,16,SSD,1024,Integrated,14.0,Windows 11,1.43,7.3,24,Professional,South,76023.36
+LAP0006,Dell,Inspiron 15,Intel i3,8,SSD,1024,Integrated,13.3,Linux,1.12,11.9,24,Business,West,46023.43
+LAP0007,Dell,Vostro 15,Intel i7,16,SSD,512,NVIDIA GTX,14.0,Windows 11,1.17,10.0,6,Business,North,86183.51
+LAP0008,Dell,Inspiron 15,Intel i5,8,SSD,512,Integrated,16.0,Linux,1.59,8.5,24,Gaming,South,50530.51
+LAP0009,Dell,Latitude 14,AMD Ryzen 7,16,SSD,512,NVIDIA GTX,16.0,Windows 11,2.13,10.3,12,Professional,North,71964.42
+LAP0010,Dell,Vostro 15,AMD Ryzen 5,16,SSD,512,NVIDIA RTX,13.3,Windows 11,1.46,7.0,12,Student,West,81518.57
+LAP0011,Dell,Vostro 15,Intel i5,16,HDD,256,NVIDIA GTX,15.6,Windows 11,1.88,8.2,6,Business,East,48991.67
+LAP0012,Dell,Vostro 15,AMD Ryzen 7,32,HDD,1024,NVIDIA GTX,16.0,Windows 11,1.5,7.8,12,Gaming,East,82981.27
+LAP0013,Dell,Vostro 15,Intel i7,32,SSD,512,NVIDIA RTX,16.0,Windows 11,1.84,8.0,24,Business,East,99165.88
+LAP0014,Dell,Vostro 15,AMD Ryzen 5,64,SSD,512,AMD Radeon,17.3,Windows 11,2.45,5.7,24,Professional,East,80467.29
+LAP0015,Dell,Vostro 15,Intel i5,16,HDD,512,Integrated,15.6,Windows 11,2.03,10.9,12,Business,East,41314.92
+LAP0016,Dell,Latitude 14,Intel i3,8,SSD,512,AMD Radeon,13.3,Windows 11,1.48,11.7,6,Business,North,45546.76
+LAP0017,Dell,Vostro 15,Intel i5,32,SSD,512,Integrated,15.6,Windows 11,1.62,9.4,24,Business,North,60519.31
+LAP0018,Dell,Vostro 15,AMD Ryzen 7,8,SSD,512,Integrated,16.0,Windows 11,2.16,6.8,24,Business,North,61491.16
+LAP0019,Dell,Latitude 14,Intel i3,16,SSD,256,AMD Radeon,13.3,Windows 11,1.27,8.3,12,Student,South,45990.94
+LAP0020,Dell,Vostro 15,Intel i3,8,SSD,512,Integrated,14.0,Windows 11,1.32,10.3,24,Student,East,35721.68
+LAP0021,Dell,Inspiron 15,Intel i7,8,HDD,512,NVIDIA GTX,15.6,Windows 11,2.12,7.1,12,Professional,East,70672.47
+LAP0022,Dell,Vostro 15,Intel i5,16,SSD,512,Integrated,15.6,Windows 11,1.7,9.4,12,Professional,North,53061.06
+LAP0023,Dell,Latitude 14,Intel i3,16,SSD,512,Integrated,16.0,Windows 11,1.81,5.6,12,Student,North,46380.93
+LAP0024,Dell,Latitude 14,Intel i5,16,HDD,512,Integrated,17.3,Windows 11,2.26,10.1,12,Student,North,42665.68
+LAP0025,Dell,Inspiron 15,Intel i5,16,SSD,1024,Integrated,14.0,Windows 11,1.21,8.6,24,Professional,South,59627.33
+LAP0026,Dell,Latitude 14,AMD Ryzen 7,8,HDD,512,Integrated,17.3,Windows 11,2.1,5.8,6,Professional,North,55576.2
+LAP0027,Dell,Vostro 15,AMD Ryzen 3,8,SSD,512,Integrated,16.0,Windows 11,1.74,11.8,12,Gaming,East,34897.58
+LAP0028,Dell,Inspiron 15,Intel i3,16,SSD,512,Integrated,14.0,Windows 11,1.51,11.7,6,Gaming,West,50767.69
+LAP0029,Dell,Vostro 15,Intel i7,16,SSD,1024,NVIDIA GTX,16.0,Windows 11,2.14,7.4,24,Gaming,South,78374.18
+LAP0030,Dell,Latitude 14,Intel i7,8,SSD,1024,AMD Radeon,14.0,Windows 11,1.23,6.0,6,Student,West,74764.43
+LAP0031,Dell,Vostro 15,Intel i5,16,SSD,256,NVIDIA GTX,15.6,Windows 11,1.99,8.5,24,Student,South,53369.37
+LAP0032,Dell,Latitude 14,AMD Ryzen 5,32,SSD,512,NVIDIA GTX,14.0,Windows 11,1.42,11.4,6,Student,North,87412.3
+LAP0033,Dell,Vostro 15,AMD Ryzen 5,32,SSD,512,NVIDIA RTX,15.6,Windows 11,1.99,11.6,24,Professional,East,87016.31
+LAP0034,Dell,Inspiron 15,Intel i3,8,SSD,512,Integrated,14.0,Windows 11,1.58,10.9,24,Professional,West,37317.35
+LAP0035,Dell,Vostro 15,AMD Ryzen 7,8,SSD,1024,Integrated,17.3,Windows 11,2.52,11.5,6,Gaming,East,68778.5
+LAP0036,Dell,Latitude 14,AMD Ryzen 3,8,SSD,512,Integrated,13.3,Windows 11,1.53,7.6,24,Professional,East,37583.25
+LAP0037,Dell,Vostro 15,AMD Ryzen 5,8,HDD,512,Integrated,17.3,Windows 11,2.66,5.5,24,Professional,West,47016.94
+LAP0038,Dell,Inspiron 15,Intel i5,16,SSD,1024,NVIDIA RTX,15.6,Windows 11,1.88,11.5,12,Gaming,East,68258.53
+LAP0039,Dell,Latitude 14,Intel i5,8,SSD,256,NVIDIA GTX,13.3,Linux,1.38,6.1,6,Professional,West,46100.21
+LAP0040,Dell,Vostro 15,AMD Ryzen 3,8,SSD,1024,AMD Radeon,16.0,Windows 11,2.19,7.1,24,Student,North,51962.93
+LAP0041,Dell,Vostro 15,AMD Ryzen 7,32,SSD,512,AMD Radeon,15.6,Windows 11,2.15,8.8,6,Student,South,87400.15
+LAP0042,Dell,Vostro 15,AMD Ryzen 5,32,SSD,512,NVIDIA GTX,15.6,Windows 11,1.73,10.5,12,Professional,South,76848.21
+LAP0043,Dell,Vostro 15,AMD Ryzen 5,8,SSD,1024,Integrated,13.3,Linux,1.26,8.6,12,Professional,North,58556.63
+LAP0044,Dell,Vostro 15,Intel i7,16,SSD,1024,Integrated,13.3,Windows 11,1.36,8.5,24,Student,North,75722.08
+LAP0045,Dell,Inspiron 15,Intel i3,16,HDD,512,Integrated,15.6,Windows 11,2.1,11.1,12,Gaming,East,34423.7
+LAP0046,Dell,Inspiron 15,AMD Ryzen 5,16,SSD,1024,Integrated,13.3,Windows 11,1.32,6.1,24,Business,West,62837.75
+LAP0047,Dell,Vostro 15,Intel i7,8,SSD,1024,AMD Radeon,15.6,Windows 11,1.76,6.4,24,Professional,North,71004.18
+LAP0048,Dell,Latitude 14,Intel i5,16,SSD,512,AMD Radeon,14.0,Windows 11,1.22,9.6,12,Student,West,67834.1
+LAP0049,Dell,Vostro 15,AMD Ryzen 5,16,SSD,256,Integrated,17.3,Windows 11,2.24,11.8,24,Student,South,54623.33
+LAP0050,Dell,Latitude 14,Intel i5,8,SSD,512,Integrated,15.6,Windows 11,2.19,7.4,24,Professional,West,39143.37
+LAP0051,Dell,Vostro 15,Intel i7,8,SSD,512,NVIDIA RTX,15.6,Windows 11,2.04,7.0,12,Student,North,81535.43
+LAP0052,Dell,Latitude 14,AMD Ryzen 3,16,SSD,1024,NVIDIA RTX,13.3,Windows 11,1.55,9.7,12,Business,West,71344.18
+LAP0053,Dell,Inspiron 15,Intel i7,8,HDD,1024,Integrated,14.0,Windows 11,1.17,9.0,12,Professional,South,62030.9
+LAP0054,Dell,Latitude 14,AMD Ryzen 5,16,SSD,1024,NVIDIA RTX,15.6,Windows 11,2.06,8.5,6,Student,North,83829.59
+LAP0055,Dell,Vostro 15,AMD Ryzen 5,32,SSD,1024,AMD Radeon,13.3,Windows 11,1.5,5.6,24,Student,South,87716.55
+LAP0056,Dell,Inspiron 15,AMD Ryzen 3,16,SSD,1024,NVIDIA GTX,14.0,Windows 11,1.34,9.5,24,Student,North,66267.81
+LAP0057,Dell,Inspiron 15,AMD Ryzen 3,16,SSD,512,Integrated,14.0,Windows 11,1.12,5.7,12,Student,North,46300.57
+LAP0058,Dell,Latitude 14,AMD Ryzen 5,16,SSD,1024,Integrated,16.0,Windows 11,1.91,10.2,12,Business,East,61685.59
+LAP0059,Dell,Vostro 15,AMD Ryzen 3,16,SSD,512,Integrated,14.0,Linux,1.53,6.1,24,Professional,South,51567.74
+LAP0060,Dell,Inspiron 15,Intel i3,32,SSD,1024,AMD Radeon,14.0,Windows 11,1.42,9.4,6,Student,South,75467.0
+LAP0061,Dell,Inspiron 15,Intel i5,8,SSD,1024,NVIDIA GTX,17.3,Windows 11,2.17,11.2,12,Business,West,56920.77
+LAP0062,Dell,Inspiron 15,Intel i5,16,SSD,1024,AMD Radeon,13.3,Linux,1.17,7.8,6,Professional,West,67241.58
+LAP0063,Dell,Vostro 15,Intel i5,16,SSD,1024,NVIDIA RTX,16.0,Windows 11,2.04,8.8,6,Professional,North,72098.54
+LAP0064,Dell,Vostro 15,AMD Ryzen 7,32,SSD,512,NVIDIA RTX,13.3,Windows 11,1.13,8.6,12,Professional,West,93694.12
+LAP0065,Dell,Inspiron 15,Intel i7,8,SSD,512,Integrated,14.0,Linux,1.24,9.6,24,Business,East,68733.42
+LAP0066,Dell,Latitude 14,AMD Ryzen 7,16,SSD,256,Integrated,13.3,Windows 11,1.53,9.7,24,Business,North,71180.13
+LAP0067,Dell,Latitude 14,Intel i7,16,SSD,512,Integrated,13.3,Windows 11,1.26,7.5,12,Professional,North,71753.0
+LAP0068,Dell,Latitude 14,AMD Ryzen 3,8,SSD,512,Integrated,15.6,Windows 11,2.07,9.1,24,Gaming,South,44592.95
+LAP0069,Dell,Latitude 14,AMD Ryzen 3,32,SSD,512,AMD Radeon,13.3,Windows 11,1.58,9.4,12,Student,North,68704.41
+LAP0070,Dell,Inspiron 15,Intel i5,8,HDD,512,NVIDIA RTX,15.6,Windows 11,1.9,10.7,24,Gaming,West,57174.01
+LAP0071,Dell,Vostro 15,AMD Ryzen 3,8,SSD,512,NVIDIA GTX,15.6,Windows 11,1.75,6.7,6,Professional,East,48703.33
+LAP0072,Dell,Vostro 15,Intel i3,8,HDD,512,AMD Radeon,16.0,Windows 11,1.82,6.5,12,Business,West,46998.21
+LAP0073,Dell,Vostro 15,AMD Ryzen 5,8,SSD,256,NVIDIA RTX,16.0,Windows 11,1.84,8.4,12,Student,West,63915.83
+LAP0074,Dell,Vostro 15,Intel i5,16,SSD,512,NVIDIA GTX,13.3,Windows 11,1.21,11.9,6,Student,South,71117.95
+LAP0075,Dell,Vostro 15,AMD Ryzen 7,8,HDD,256,NVIDIA RTX,16.0,Windows 11,1.62,8.0,24,Student,South,56288.2
+LAP0076,Dell,Vostro 15,Intel i3,8,HDD,1024,Integrated,17.3,Windows 11,2.34,8.1,24,Professional,West,42775.61
+LAP0077,Dell,Latitude 14,Intel i7,32,SSD,512,Integrated,15.6,Linux,1.56,11.0,6,Professional,East,80468.76
+LAP0078,Dell,Inspiron 15,Intel i7,8,SSD,512,Integrated,13.3,Windows 11,1.36,6.2,24,Student,South,63731.52
+LAP0079,Dell,Vostro 15,Intel i5,8,SSD,256,NVIDIA GTX,14.0,Linux,1.19,6.5,24,Student,East,52489.97
+LAP0080,Dell,Latitude 14,Intel i7,16,SSD,1024,NVIDIA GTX,17.3,Windows 11,2.26,11.8,12,Student,West,72132.99
+LAP0081,Dell,Inspiron 15,Intel i7,16,SSD,512,NVIDIA RTX,15.6,Windows 11,1.82,5.7,12,Business,West,86088.53
+LAP0082,Dell,Latitude 14,AMD Ryzen 3,16,SSD,512,Integrated,17.3,Linux,2.76,10.3,6,Professional,North,48684.06
+LAP0083,Dell,Vostro 15,Intel i5,8,HDD,256,Integrated,13.3,Windows 11,1.35,6.6,6,Business,East,46727.57
+LAP0084,Dell,Vostro 15,Intel i7,32,SSD,512,Integrated,17.3,Windows 11,2.04,9.6,12,Student,West,77744.83
+LAP0085,Dell,Latitude 14,Intel i7,32,HDD,2048,Integrated,14.0,Windows 11,1.27,9.3,6,Gaming,South,87438.83
+LAP0086,Dell,Vostro 15,AMD Ryzen 7,16,HDD,1024,Integrated,17.3,Windows 11,2.3,10.6,6,Business,West,64819.14
+LAP0087,Dell,Inspiron 15,AMD Ryzen 3,8,SSD,256,Integrated,15.6,Windows 11,2.16,8.7,6,Gaming,North,39196.36
+LAP0088,Dell,Latitude 14,Intel i3,16,SSD,1024,Integrated,13.3,Windows 11,1.43,11.2,24,Student,East,55556.43
+LAP0089,Dell,Latitude 14,Intel i5,16,HDD,1024,NVIDIA GTX,16.0,Windows 11,1.53,7.9,24,Student,East,58693.13
+LAP0090,Dell,Vostro 15,AMD Ryzen 3,8,SSD,512,NVIDIA RTX,14.0,Windows 11,1.28,11.7,12,Professional,South,63386.75
+LAP0091,Dell,Latitude 14,AMD Ryzen 5,8,SSD,256,Integrated,14.0,Windows 11,1.54,5.8,12,Gaming,West,49513.9
+LAP0092,Dell,Vostro 15,AMD Ryzen 5,8,SSD,256,Integrated,17.3,Windows 11,2.12,8.3,6,Business,South,50435.95
+LAP0093,Dell,Inspiron 15,AMD Ryzen 7,8,SSD,512,Integrated,15.6,Windows 11,1.66,7.6,6,Business,South,56917.81
+LAP0094,Dell,Inspiron 15,AMD Ryzen 5,16,SSD,512,Integrated,16.0,Windows 11,1.81,5.5,6,Student,North,56602.57
+LAP0095,Dell,Vostro 15,AMD Ryzen 5,16,SSD,256,NVIDIA RTX,14.0,Windows 11,1.25,5.8,12,Professional,East,72312.56
+LAP0096,Dell,Latitude 14,Intel i3,16,SSD,512,Integrated,14.0,Windows 11,1.46,7.4,6,Professional,North,42491.23
+LAP0097,Dell,Latitude 14,Intel i7,16,SSD,512,NVIDIA GTX,17.3,Windows 11,2.41,11.9,24,Student,East,77409.59
+LAP0098,Dell,Inspiron 15,Intel i3,16,HDD,512,Integrated,15.6,Windows 11,1.67,9.8,6,Business,South,42251.8
+LAP0099,Dell,Latitude 14,Intel i5,16,HDD,1024,Integrated,16.0,Windows 11,2.19,8.6,6,Business,West,54100.06
+LAP0100,Dell,Inspiron 15,AMD Ryzen 5,8,SSD,1024,Integrated,15.6,Linux,2.15,8.8,24,Professional,West,55021.41
+LAP0101,Dell,Vostro 15,AMD Ryzen 5,16,SSD,1024,Integrated,15.6,Windows 11,1.59,7.9,12,Business,East,56707.88
+LAP0102,Dell,Vostro 15,Intel i5,8,SSD,1024,NVIDIA GTX,13.3,Windows 11,1.46,6.0,24,Gaming,North,60184.15
+LAP0103,Dell,Latitude 14,Intel i7,16,SSD,512,Integrated,16.0,Windows 11,1.62,8.4,12,Student,South,67534.83
+LAP0104,Dell,Latitude 14,AMD Ryzen 3,16,SSD,256,NVIDIA GTX,16.0,Windows 11,1.75,10.7,24,Student,West,45466.8
+LAP0105,Dell,Latitude 14,Intel i5,8,SSD,256,NVIDIA RTX,15.6,Windows 11,1.75,11.7,6,Professional,East,59351.26
+LAP0106,Dell,Vostro 15,AMD Ryzen 7,16,SSD,512,NVIDIA RTX,15.6,Windows 11,1.95,7.1,6,Student,North,86895.28
+LAP0107,Dell,Vostro 15,Intel i7,8,SSD,512,NVIDIA GTX,14.0,Windows 11,1.6,7.4,12,Student,North,80564.89
+LAP0108,Dell,Latitude 14,AMD Ryzen 5,8,HDD,256,AMD Radeon,15.6,Windows 11,1.97,10.1,24,Professional,South,47862.65
+LAP0109,Dell,Latitude 14,AMD Ryzen 5,16,SSD,1024,AMD Radeon,14.0,Windows 11,1.16,6.8,6,Student,East,73236.03
+LAP0110,Dell,Latitude 14,Intel i3,16,SSD,512,Integrated,13.3,Windows 11,1.13,8.1,24,Business,East,48742.04
+LAP0111,Dell,Vostro 15,AMD Ryzen 5,64,SSD,512,Integrated,16.0,Windows 11,1.98,7.7,24,Professional,North,74442.58
+LAP0112,Dell,Latitude 14,AMD Ryzen 5,32,HDD,1024,Integrated,14.0,Windows 11,1.25,6.6,24,Student,South,71957.74
+LAP0113,Dell,Vostro 15,AMD Ryzen 5,16,SSD,256,NVIDIA GTX,17.3,Windows 11,2.43,8.8,6,Professional,North,60348.09
+LAP0114,Dell,Inspiron 15,Intel i5,8,SSD,1024,AMD Radeon,13.3,Windows 11,1.14,11.7,24,Student,North,72161.64
+LAP0115,Dell,Vostro 15,AMD Ryzen 5,16,SSD,512,NVIDIA GTX,15.6,Windows 11,1.84,10.7,24,Professional,East,64211.43
+LAP0116,Dell,Latitude 14,Intel i3,16,HDD,512,Integrated,14.0,Windows 11,1.26,10.2,24,Gaming,South,45434.01
+LAP0117,Dell,Vostro 15,AMD Ryzen 7,16,HDD,512,Integrated,13.3,Windows 11,1.23,7.1,6,Student,East,64920.85
+LAP0118,Dell,Latitude 14,AMD Ryzen 5,32,SSD,1024,AMD Radeon,15.6,Windows 11,1.63,6.5,24,Professional,South,74818.0
+LAP0119,Dell,Latitude 14,Intel i7,16,SSD,512,Integrated,15.6,Windows 11,1.53,7.3,24,Gaming,East,74219.75
+LAP0120,Dell,Vostro 15,Intel i5,8,SSD,512,Integrated,16.0,Windows 11,1.76,8.1,24,Professional,South,50460.75
+LAP0121,Dell,Latitude 14,Intel i7,16,SSD,512,Integrated,17.3,Windows 11,2.1,11.8,12,Professional,South,72636.69
+LAP0122,Dell,Inspiron 15,Intel i7,16,SSD,512,Integrated,13.3,Windows 11,1.12,10.1,12,Professional,North,67984.81
+LAP0123,Dell,Latitude 14,AMD Ryzen 3,16,HDD,256,Integrated,15.6,Windows 11,1.92,8.8,24,Professional,South,43389.62
+LAP0124,Dell,Vostro 15,Intel i7,8,SSD,512,Integrated,13.3,Windows 11,1.4,7.2,24,Business,North,58768.72
+LAP0125,Dell,Vostro 15,AMD Ryzen 5,16,SSD,512,Integrated,14.0,Windows 11,1.51,7.1,24,Gaming,West,63717.91
+LAP0126,Dell,Latitude 14,Intel i5,8,HDD,512,Integrated,17.3,Windows 11,2.74,11.2,24,Business,North,51934.1
+LAP0127,Dell,Inspiron 15,Intel i7,16,SSD,512,AMD Radeon,16.0,Windows 11,2.14,7.7,12,Business,South,70619.64
+LAP0128,Dell,Vostro 15,AMD Ryzen 3,16,SSD,512,Integrated,15.6,Windows 11,1.99,10.0,12,Student,South,44528.71
+LAP0129,Dell,Latitude 14,Intel i7,8,SSD,512,NVIDIA RTX,16.0,Linux,2.13,8.1,12,Gaming,North,80525.48
+LAP0130,Dell,Vostro 15,Intel i5,8,SSD,512,NVIDIA RTX,16.0,Windows 11,1.65,10.9,12,Gaming,South,62811.41
+LAP0131,Dell,Latitude 14,Intel i5,8,SSD,512,NVIDIA GTX,14.0,Windows 11,1.42,5.8,12,Student,East,50099.06
+LAP0132,Dell,Vostro 15,Intel i3,16,SSD,1024,Integrated,16.0,Windows 11,1.83,6.8,12,Student,West,51385.58
+LAP0133,Dell,Inspiron 15,AMD Ryzen 7,16,SSD,1024,NVIDIA GTX,14.0,Windows 11,1.31,10.9,6,Gaming,East,77296.68
+LAP0134,Dell,Inspiron 15,AMD Ryzen 5,32,HDD,512,NVIDIA RTX,13.3,Windows 11,1.25,9.4,12,Student,East,87208.22
+LAP0135,Dell,Vostro 15,AMD Ryzen 5,8,SSD,1024,Integrated,14.0,Windows 11,1.47,9.7,24,Student,South,54939.64
+LAP0136,Dell,Vostro 15,AMD Ryzen 5,8,SSD,1024,NVIDIA RTX,16.0,Windows 11,1.86,6.1,24,Student,North,81051.75
+LAP0137,Dell,Vostro 15,Intel i7,8,SSD,512,Integrated,15.6,Linux,1.71,10.2,6,Student,South,58552.41
+LAP0138,Dell,Latitude 14,AMD Ryzen 3,8,SSD,512,Integrated,15.6,Windows 11,1.98,9.7,12,Professional,North,38627.77
+LAP0139,Dell,Vostro 15,Intel i5,16,SSD,512,Integrated,17.3,Windows 11,2.73,10.4,24,Business,North,57737.88
+LAP0140,Dell,Vostro 15,AMD Ryzen 3,16,HDD,512,NVIDIA RTX,13.3,Windows 11,1.56,6.2,24,Gaming,North,57538.16
+LAP0141,Dell,Inspiron 15,Intel i7,16,SSD,256,Integrated,17.3,Windows 11,2.39,11.3,12,Business,East,65100.62
+LAP0142,Dell,Vostro 15,Intel i5,16,HDD,512,NVIDIA GTX,13.3,Windows 11,1.3,10.8,24,Student,West,64959.19
+LAP0143,Dell,Inspiron 15,Intel i3,64,SSD,1024,Integrated,16.0,Windows 11,1.52,8.2,6,Business,East,68843.38
+LAP0144,Dell,Inspiron 15,Intel i5,32,SSD,512,Integrated,17.3,Windows 11,2.11,11.1,6,Student,East,65907.9
+LAP0145,Dell,Vostro 15,Intel i7,8,SSD,256,Integrated,16.0,Windows 11,1.97,9.0,24,Professional,North,58246.52
+LAP0146,Dell,Inspiron 15,Intel i5,32,SSD,1024,Integrated,13.3,Windows 11,1.5,8.2,6,Student,West,76595.25
+LAP0147,Dell,Latitude 14,Intel i3,16,HDD,256,NVIDIA GTX,13.3,Windows 11,1.3,7.0,6,Business,West,40510.77
+LAP0148,Dell,Latitude 14,Intel i5,32,SSD,512,Integrated,17.3,Linux,2.62,10.8,6,Student,North,59135.0
+LAP0149,Dell,Latitude 14,AMD Ryzen 7,8,SSD,512,Integrated,14.0,Windows 11,1.41,8.3,12,Student,South,65425.79
+LAP0150,Dell,Inspiron 15,AMD Ryzen 7,8,HDD,512,NVIDIA RTX,15.6,Windows 11,1.76,10.4,12,Student,North,74413.48
+LAP0151,Dell,Vostro 15,Intel i5,32,SSD,512,NVIDIA RTX,17.3,Windows 11,2.42,8.0,12,Student,West,84204.27
+LAP0152,Dell,Vostro 15,AMD Ryzen 7,16,SSD,256,Integrated,16.0,Windows 11,1.97,9.4,6,Student,North,63636.07
+LAP0153,Dell,Inspiron 15,Intel i7,32,HDD,256,Integrated,13.3,Windows 11,1.47,10.4,6,Business,North,70016.94
+LAP0154,Dell,Latitude 14,Intel i5,8,SSD,512,Integrated,15.6,Windows 11,1.72,7.8,12,Professional,East,48122.19
+LAP0155,Dell,Inspiron 15,AMD Ryzen 5,8,SSD,256,Integrated,14.0,Windows 11,1.11,9.1,24,Professional,East,50395.88
+LAP0156,Dell,Latitude 14,Intel i5,16,HDD,512,Integrated,15.6,Windows 11,1.68,10.8,24,Professional,East,45862.47
+LAP0157,Dell,Inspiron 15,Intel i7,8,SSD,512,Integrated,17.3,Windows 11,2.79,11.7,24,Student,West,70473.04
+LAP0158,Dell,Inspiron 15,AMD Ryzen 7,8,SSD,1024,NVIDIA RTX,13.3,Windows 11,1.45,5.6,24,Professional,West,88209.3
+LAP0159,Dell,Inspiron 15,AMD Ryzen 3,16,HDD,512,NVIDIA GTX,17.3,Windows 11,2.44,5.6,24,Business,South,43716.18
+LAP0160,Dell,Inspiron 15,Intel i3,16,SSD,1024,NVIDIA GTX,13.3,Windows 11,1.36,7.1,24,Professional,South,64031.54
+LAP0161,HP,Victus 15,Intel i5,8,SSD,512,Integrated,14.0,Windows 11,1.25,10.9,6,Business,West,40190.98
+LAP0162,HP,Pavilion 15,Intel i3,8,SSD,256,NVIDIA GTX,13.3,Windows 11,1.35,8.3,12,Professional,West,42118.93
+LAP0163,HP,Victus 15,AMD Ryzen 5,32,SSD,512,Integrated,16.0,Linux,1.69,11.5,24,Gaming,West,68790.73
+LAP0164,HP,Victus 15,Intel i5,8,SSD,256,Integrated,16.0,Windows 11,2.15,7.4,24,Student,East,32883.98
+LAP0165,HP,Victus 15,AMD Ryzen 3,16,SSD,1024,Integrated,13.3,Windows 11,1.35,11.8,6,Student,North,53912.24
+LAP0166,HP,HP 15,AMD Ryzen 5,32,SSD,512,NVIDIA RTX,13.3,Windows 11,1.42,10.6,12,Professional,South,86434.56
+LAP0167,HP,Victus 15,Intel i7,16,SSD,512,Integrated,15.6,Windows 11,2.06,10.1,6,Student,East,67276.32
+LAP0168,HP,Pavilion 15,AMD Ryzen 5,8,SSD,256,NVIDIA RTX,15.6,Windows 11,1.81,10.4,6,Student,North,67112.62
+LAP0169,HP,Victus 15,Intel i7,8,HDD,256,Integrated,13.3,Windows 11,1.4,10.6,12,Student,East,48472.8
+LAP0170,HP,Victus 15,Intel i5,32,HDD,2048,AMD Radeon,17.3,Windows 11,2.14,8.0,6,Student,South,70185.24
+LAP0171,HP,Pavilion 15,Intel i7,8,SSD,512,Integrated,15.6,Windows 11,1.68,7.1,24,Professional,North,52574.24
+LAP0172,HP,HP 15,Intel i7,8,SSD,1024,Integrated,15.6,Windows 11,1.81,8.3,24,Gaming,North,57905.9
+LAP0173,HP,HP 15,Intel i5,16,HDD,256,NVIDIA GTX,15.6,Windows 11,1.7,10.0,12,Gaming,North,45230.09
+LAP0174,HP,Pavilion 15,Intel i5,8,SSD,1024,NVIDIA RTX,17.3,Windows 11,2.8,6.7,24,Student,East,66112.23
+LAP0175,HP,HP 15,AMD Ryzen 7,16,SSD,256,NVIDIA RTX,16.0,Windows 11,1.6,7.5,12,Business,East,75822.16
+LAP0176,HP,Victus 15,AMD Ryzen 5,16,SSD,512,AMD Radeon,16.0,Windows 11,1.88,10.6,12,Business,West,62299.37
+LAP0177,HP,Victus 15,Intel i3,8,SSD,512,NVIDIA GTX,16.0,Windows 11,2.18,7.7,12,Student,West,40635.56
+LAP0178,HP,HP 15,Intel i5,16,SSD,512,Integrated,15.6,Windows 11,1.77,10.5,24,Business,North,55117.95
+LAP0179,HP,Pavilion 15,Intel i5,8,HDD,2048,Integrated,14.0,Windows 11,1.27,7.7,6,Professional,South,51386.09
+LAP0180,HP,Victus 15,Intel i7,8,HDD,512,NVIDIA GTX,13.3,Windows 11,1.11,7.7,6,Business,North,73817.81
+LAP0181,HP,HP 15,AMD Ryzen 7,16,SSD,512,Integrated,16.0,Windows 11,1.66,8.1,6,Student,East,64392.55
+LAP0182,HP,Pavilion 15,Intel i5,8,SSD,512,AMD Radeon,14.0,Windows 11,1.2,10.4,6,Professional,North,46719.84
+LAP0183,HP,Victus 15,Intel i5,16,SSD,512,Integrated,15.6,Windows 11,1.92,9.5,24,Student,South,43758.03
+LAP0184,HP,Victus 15,AMD Ryzen 5,16,HDD,512,NVIDIA RTX,17.3,Windows 11,2.07,6.4,6,Student,West,67748.18
+LAP0185,HP,HP 15,Intel i5,8,HDD,256,Integrated,16.0,Windows 11,1.63,9.6,24,Gaming,North,30571.47
+LAP0186,HP,Pavilion 15,Intel i7,8,SSD,512,Integrated,15.6,Windows 11,2.17,8.6,6,Business,East,59790.05
+LAP0187,HP,Victus 15,Intel i7,8,SSD,256,NVIDIA RTX,13.3,Windows 11,1.5,6.9,6,Student,South,74706.62
+LAP0188,HP,Pavilion 15,Intel i5,16,HDD,512,NVIDIA RTX,17.3,Windows 11,2.09,10.5,12,Professional,West,61249.32
+LAP0189,HP,Victus 15,AMD Ryzen 5,8,SSD,1024,Integrated,14.0,Windows 11,1.25,12.0,12,Student,West,49766.48
+LAP0190,HP,Victus 15,Intel i7,8,SSD,1024,NVIDIA RTX,15.6,Linux,2.1,9.5,12,Student,North,72760.24
+LAP0191,HP,Victus 15,AMD Ryzen 5,16,SSD,512,NVIDIA RTX,17.3,Windows 11,2.13,11.9,12,Student,South,68567.73
+LAP0192,HP,HP 15,AMD Ryzen 7,16,SSD,256,AMD Radeon,13.3,Windows 11,1.6,11.1,6,Business,North,69430.84
+LAP0193,HP,HP 15,Intel i5,16,SSD,512,NVIDIA RTX,14.0,Windows 11,1.39,7.2,12,Professional,West,70540.47
+LAP0194,HP,HP 15,AMD Ryzen 3,16,HDD,512,Integrated,16.0,Windows 11,2.17,7.6,6,Gaming,West,30971.23
+LAP0195,HP,Victus 15,AMD Ryzen 5,8,SSD,256,NVIDIA GTX,16.0,Windows 11,1.65,8.3,6,Professional,South,48356.36
+LAP0196,HP,HP 15,AMD Ryzen 5,16,SSD,512,NVIDIA GTX,13.3,Windows 11,1.12,9.6,12,Student,North,64310.98
+LAP0197,HP,Pavilion 15,Intel i7,8,SSD,512,AMD Radeon,15.6,Windows 11,1.61,11.6,12,Student,South,58599.69
+LAP0198,HP,HP 15,Intel i5,8,SSD,512,AMD Radeon,14.0,Windows 11,1.31,6.1,6,Student,East,51268.81
+LAP0199,HP,HP 15,Intel i3,8,SSD,256,Integrated,13.3,Windows 11,1.59,8.2,6,Professional,North,31838.99
+LAP0200,HP,Pavilion 15,Intel i5,8,HDD,1024,Integrated,16.0,Windows 11,2.04,10.4,6,Professional,North,36433.68
+LAP0201,HP,Pavilion 15,Intel i3,8,SSD,512,NVIDIA GTX,14.0,Windows 11,1.56,9.5,12,Gaming,West,45187.09
+LAP0202,HP,HP 15,AMD Ryzen 5,16,SSD,512,Integrated,15.6,Windows 11,2.05,7.1,24,Student,South,55100.58
+LAP0203,HP,Victus 15,AMD Ryzen 5,16,HDD,512,NVIDIA RTX,17.3,Windows 11,2.41,10.4,12,Professional,North,70450.78
+LAP0204,HP,Pavilion 15,Intel i7,16,HDD,512,Integrated,15.6,Windows 11,2.15,6.4,24,Professional,North,63319.16
+LAP0205,HP,HP 15,AMD Ryzen 5,8,SSD,256,NVIDIA RTX,14.0,Linux,1.12,5.9,12,Professional,East,55377.54
+LAP0206,HP,Pavilion 15,Intel i7,16,HDD,256,NVIDIA GTX,15.6,Windows 11,1.56,11.5,6,Professional,East,56356.84
+LAP0207,HP,HP 15,AMD Ryzen 3,16,SSD,512,NVIDIA GTX,14.0,Windows 11,1.13,6.1,12,Student,West,53894.71
+LAP0208,HP,Victus 15,Intel i5,8,SSD,1024,NVIDIA RTX,13.3,Windows 11,1.18,11.7,24,Professional,South,69889.09
+LAP0209,HP,Pavilion 15,Intel i5,8,SSD,1024,NVIDIA RTX,15.6,Windows 11,2.06,7.3,6,Student,West,66894.76
+LAP0210,HP,Pavilion 15,Intel i7,32,SSD,256,Integrated,15.6,Windows 11,2.04,11.3,24,Business,North,86914.34
+LAP0211,Lenovo,ThinkBook 14,AMD Ryzen 5,8,SSD,256,AMD Radeon,16.0,Windows 11,2.14,6.7,6,Professional,East,52146.06
+LAP0212,Lenovo,IdeaPad Gaming 3,Intel i5,8,HDD,1024,AMD Radeon,15.6,Windows 11,1.58,9.9,6,Student,West,55687.1
+LAP0213,Lenovo,ThinkBook 14,AMD Ryzen 7,8,HDD,1024,Integrated,13.3,Windows 11,1.38,5.6,6,Student,South,64870.06
+LAP0214,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,64,SSD,2048,Integrated,17.3,Windows 11,2.61,7.1,6,Gaming,West,96508.31
+LAP0215,Lenovo,IdeaPad Slim 3,Intel i5,32,HDD,2048,NVIDIA RTX,16.0,Windows 11,2.09,10.2,6,Student,North,87158.34
+LAP0216,Lenovo,IdeaPad Slim 3,Intel i7,8,HDD,512,AMD Radeon,14.0,Linux,1.55,8.9,24,Gaming,East,66992.41
+LAP0217,Lenovo,IdeaPad Slim 3,AMD Ryzen 7,8,SSD,1024,Integrated,17.3,Windows 11,2.45,8.3,6,Student,South,59099.34
+LAP0218,Lenovo,ThinkBook 14,AMD Ryzen 5,16,HDD,512,Integrated,15.6,Linux,1.66,11.6,6,Business,West,49511.37
+LAP0219,Lenovo,IdeaPad Slim 3,Intel i5,8,HDD,512,Integrated,16.0,Windows 11,1.72,7.2,6,Student,South,37392.91
+LAP0220,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,16,SSD,512,Integrated,14.0,Windows 11,1.58,8.1,6,Business,South,58945.48
+LAP0221,Lenovo,IdeaPad Gaming 3,AMD Ryzen 5,32,SSD,512,AMD Radeon,14.0,Windows 11,1.15,6.2,6,Student,West,85993.01
+LAP0222,Lenovo,IdeaPad Gaming 3,AMD Ryzen 5,16,HDD,512,Integrated,13.3,Linux,1.39,7.2,6,Student,West,45174.36
+LAP0223,Lenovo,ThinkBook 14,Intel i5,8,SSD,1024,NVIDIA RTX,13.3,Windows 11,1.12,8.5,6,Gaming,East,73665.22
+LAP0224,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,16,SSD,256,Integrated,14.0,Windows 11,1.24,8.4,6,Student,North,46319.83
+LAP0225,Lenovo,ThinkBook 14,AMD Ryzen 3,16,SSD,256,AMD Radeon,14.0,Windows 11,1.31,9.7,24,Student,West,46453.36
+LAP0226,Lenovo,IdeaPad Gaming 3,AMD Ryzen 7,16,HDD,512,Integrated,17.3,Windows 11,2.26,7.3,6,Student,North,64477.33
+LAP0227,Lenovo,ThinkBook 14,Intel i3,16,SSD,512,Integrated,17.3,Windows 11,2.8,11.8,6,Student,North,43866.31
+LAP0228,Lenovo,IdeaPad Slim 3,Intel i5,8,SSD,2048,AMD Radeon,17.3,Windows 11,2.68,10.7,12,Gaming,North,58727.2
+LAP0229,Lenovo,IdeaPad Slim 3,Intel i5,16,SSD,1024,NVIDIA RTX,15.6,Windows 11,2.16,9.2,24,Gaming,East,71358.18
+LAP0230,Lenovo,IdeaPad Slim 3,Intel i7,8,HDD,512,Integrated,17.3,Windows 11,2.38,7.7,24,Student,North,57635.24
+LAP0231,Lenovo,IdeaPad Slim 3,Intel i5,32,HDD,256,NVIDIA RTX,17.3,Windows 11,2.56,6.4,6,Business,South,67290.4
+LAP0232,Lenovo,ThinkBook 14,AMD Ryzen 7,8,HDD,256,AMD Radeon,15.6,Windows 11,1.6,6.5,12,Business,East,54551.11
+LAP0233,Lenovo,ThinkBook 14,AMD Ryzen 3,16,SSD,1024,AMD Radeon,14.0,Windows 11,1.43,10.8,12,Student,South,58782.12
+LAP0234,Lenovo,IdeaPad Gaming 3,Intel i5,32,HDD,512,AMD Radeon,13.3,Windows 11,1.19,7.6,24,Student,West,63644.85
+LAP0235,Lenovo,IdeaPad Slim 3,AMD Ryzen 7,8,SSD,2048,NVIDIA RTX,13.3,Windows 11,1.51,9.9,24,Gaming,East,101224.8
+LAP0236,Lenovo,IdeaPad Gaming 3,Intel i3,8,SSD,1024,NVIDIA GTX,13.3,Windows 11,1.12,8.3,12,Gaming,East,54429.69
+LAP0237,Lenovo,IdeaPad Gaming 3,Intel i7,8,SSD,512,Integrated,14.0,Windows 11,1.18,6.0,6,Student,South,53463.91
+LAP0238,Lenovo,IdeaPad Slim 3,Intel i5,32,HDD,256,Integrated,17.3,Windows 11,2.75,11.9,12,Professional,East,53416.09
+LAP0239,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,16,SSD,512,NVIDIA GTX,13.3,Windows 11,1.27,11.8,12,Business,South,62599.01
+LAP0240,Lenovo,ThinkBook 14,AMD Ryzen 3,8,SSD,512,Integrated,14.0,Windows 11,1.13,5.5,6,Student,East,44413.0
+LAP0241,Lenovo,IdeaPad Slim 3,Intel i5,8,HDD,256,Integrated,15.6,Windows 11,2.05,8.6,24,Student,East,31010.71
+LAP0242,Lenovo,ThinkBook 14,Intel i5,8,SSD,512,Integrated,15.6,Windows 11,1.66,7.2,6,Student,West,44060.74
+LAP0243,Lenovo,IdeaPad Gaming 3,Intel i3,64,SSD,512,Integrated,13.3,Windows 11,1.52,10.8,12,Gaming,East,73849.49
+LAP0244,Lenovo,IdeaPad Slim 3,Intel i7,8,SSD,1024,Integrated,17.3,Windows 11,2.46,8.9,24,Business,North,68472.95
+LAP0245,Lenovo,IdeaPad Slim 3,Intel i5,64,SSD,2048,Integrated,14.0,Windows 11,1.12,6.0,24,Professional,North,87175.72
+LAP0246,Lenovo,ThinkBook 14,AMD Ryzen 5,32,SSD,256,AMD Radeon,17.3,Windows 11,2.32,7.6,12,Professional,West,66071.79
+LAP0247,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,8,SSD,512,Integrated,17.3,Windows 11,2.47,10.4,6,Gaming,West,46439.8
+LAP0248,Lenovo,IdeaPad Gaming 3,AMD Ryzen 5,32,HDD,512,AMD Radeon,16.0,Windows 11,1.9,8.6,6,Student,North,64637.07
+LAP0249,Lenovo,IdeaPad Gaming 3,AMD Ryzen 3,8,SSD,1024,Integrated,14.0,Windows 11,1.12,8.6,12,Gaming,West,53521.59
+LAP0250,Lenovo,IdeaPad Gaming 3,Intel i5,16,SSD,1024,Integrated,13.3,Windows 11,1.59,7.0,12,Gaming,East,61399.47
+LAP0251,Lenovo,ThinkBook 14,AMD Ryzen 5,16,SSD,256,NVIDIA RTX,14.0,Windows 11,1.56,8.1,12,Business,South,65903.07
+LAP0252,Lenovo,IdeaPad Slim 3,AMD Ryzen 5,8,HDD,512,Integrated,17.3,Windows 11,2.7,5.7,6,Gaming,North,47707.43
+LAP0253,Lenovo,ThinkBook 14,AMD Ryzen 5,32,HDD,1024,Integrated,15.6,Windows 11,2.08,8.8,24,Gaming,West,76126.75
+LAP0254,Lenovo,IdeaPad Gaming 3,Intel i5,32,HDD,512,Integrated,15.6,Windows 11,1.74,10.9,12,Business,West,62223.14
+LAP0255,Lenovo,IdeaPad Slim 3,Intel i5,16,HDD,2048,Integrated,14.0,Windows 11,1.44,7.2,12,Professional,West,55739.89
+LAP0256,Lenovo,IdeaPad Gaming 3,Intel i7,16,SSD,512,Integrated,15.6,Windows 11,2.0,10.1,12,Professional,East,64398.0
+LAP0257,Lenovo,IdeaPad Gaming 3,AMD Ryzen 5,8,SSD,512,Integrated,16.0,Windows 11,1.91,5.5,24,Gaming,South,54278.15
+LAP0258,Lenovo,ThinkBook 14,Intel i7,16,HDD,512,Integrated,15.6,Windows 11,1.95,11.1,12,Business,South,58392.54
+LAP0259,Lenovo,IdeaPad Gaming 3,Intel i5,8,SSD,1024,Integrated,16.0,Windows 11,1.96,9.9,24,Student,East,51574.24
+LAP0260,Lenovo,IdeaPad Gaming 3,AMD Ryzen 7,8,SSD,256,Integrated,17.3,Windows 11,2.65,7.7,24,Student,East,56062.9
+LAP0261,ASUS,TUF Gaming F15,AMD Ryzen 7,16,SSD,1024,Integrated,14.0,Windows 11,1.25,8.6,24,Student,North,67405.86
+LAP0262,ASUS,ZenBook 14,AMD Ryzen 7,8,HDD,512,NVIDIA GTX,16.0,Windows 11,2.05,7.7,12,Professional,East,58309.19
+LAP0263,ASUS,VivoBook 15,AMD Ryzen 5,16,SSD,1024,AMD Radeon,16.0,Windows 11,2.12,8.8,24,Professional,South,50991.35
+LAP0264,ASUS,TUF Gaming F15,Intel i7,64,SSD,512,Integrated,16.0,Windows 11,1.6,11.1,6,Business,East,85967.31
+LAP0265,ASUS,VivoBook 15,Intel i5,8,SSD,512,Integrated,14.0,Linux,1.39,6.5,6,Student,East,45440.49
+LAP0266,ASUS,VivoBook 15,AMD Ryzen 3,8,HDD,256,AMD Radeon,15.6,Windows 11,2.17,11.3,24,Student,West,26962.03
+LAP0267,ASUS,ZenBook 14,AMD Ryzen 3,8,HDD,256,NVIDIA GTX,17.3,Windows 11,2.47,6.6,6,Student,South,40922.9
+LAP0268,ASUS,VivoBook 15,Intel i7,8,SSD,512,Integrated,15.6,Windows 11,2.2,8.7,6,Student,East,52141.41
+LAP0269,ASUS,TUF Gaming F15,Intel i3,8,HDD,256,AMD Radeon,14.0,Windows 11,1.16,10.1,6,Professional,South,32596.85
+LAP0270,ASUS,VivoBook 15,AMD Ryzen 5,8,SSD,256,NVIDIA GTX,13.3,Windows 11,1.44,8.2,12,Student,South,53165.38
+LAP0271,ASUS,TUF Gaming F15,Intel i7,16,SSD,512,NVIDIA GTX,13.3,Windows 11,1.43,7.3,24,Business,East,82062.78
+LAP0272,ASUS,VivoBook 15,AMD Ryzen 5,8,SSD,256,NVIDIA RTX,16.0,Windows 11,1.64,6.8,12,Business,North,54115.67
+LAP0273,ASUS,TUF Gaming F15,Intel i5,16,SSD,1024,Integrated,16.0,Windows 11,1.73,5.5,24,Student,West,60811.29
+LAP0274,ASUS,TUF Gaming F15,AMD Ryzen 5,8,SSD,512,Integrated,13.3,Windows 11,1.55,9.7,12,Gaming,South,50623.1
+LAP0275,ASUS,ZenBook 14,Intel i5,32,SSD,1024,NVIDIA RTX,15.6,Windows 11,1.8,6.3,6,Student,North,80160.26
+LAP0276,ASUS,TUF Gaming F15,AMD Ryzen 3,8,SSD,512,Integrated,13.3,Windows 11,1.29,7.7,6,Professional,East,41656.52
+LAP0277,ASUS,VivoBook 15,Intel i5,16,SSD,512,AMD Radeon,13.3,Windows 11,1.17,10.2,6,Student,East,60472.82
+LAP0278,ASUS,VivoBook 15,AMD Ryzen 5,8,SSD,512,Integrated,14.0,Windows 11,1.34,8.7,12,Professional,West,47876.07
+LAP0279,ASUS,TUF Gaming F15,Intel i5,16,SSD,1024,NVIDIA RTX,17.3,Windows 11,2.18,11.7,12,Professional,West,73891.16
+LAP0280,ASUS,VivoBook 15,Intel i7,16,SSD,512,Integrated,17.3,Windows 11,2.71,9.5,6,Professional,North,63843.14
+LAP0281,ASUS,ZenBook 14,Intel i7,8,SSD,1024,Integrated,14.0,Windows 11,1.27,7.3,24,Student,East,67087.88
+LAP0282,ASUS,ZenBook 14,Intel i7,16,SSD,512,Integrated,16.0,Windows 11,1.72,11.9,24,Business,West,68556.64
+LAP0283,ASUS,TUF Gaming F15,Intel i7,16,SSD,1024,Integrated,15.6,Windows 11,2.12,9.2,24,Business,South,77714.13
+LAP0284,ASUS,TUF Gaming F15,Intel i5,16,SSD,512,Integrated,17.3,Windows 11,2.38,9.8,24,Professional,West,45006.88
+LAP0285,ASUS,ZenBook 14,AMD Ryzen 5,16,SSD,2048,Integrated,17.3,Windows 11,2.42,10.1,6,Gaming,East,77175.7
+LAP0286,ASUS,VivoBook 15,Intel i5,8,SSD,512,NVIDIA RTX,13.3,Windows 11,1.57,8.1,12,Business,North,55792.65
+LAP0287,ASUS,TUF Gaming F15,AMD Ryzen 5,32,SSD,1024,Integrated,13.3,Windows 11,1.49,8.4,24,Professional,North,72894.02
+LAP0288,ASUS,TUF Gaming F15,AMD Ryzen 7,16,SSD,512,NVIDIA RTX,16.0,Windows 11,2.15,10.6,6,Business,North,84224.48
+LAP0289,ASUS,TUF Gaming F15,AMD Ryzen 5,16,SSD,1024,Integrated,16.0,Windows 11,1.79,9.5,24,Business,South,60841.51
+LAP0290,ASUS,TUF Gaming F15,Intel i5,16,SSD,256,Integrated,17.3,Windows 11,2.24,10.1,12,Business,North,42774.9
+LAP0291,ASUS,TUF Gaming F15,Intel i5,8,SSD,512,Integrated,14.0,Windows 11,1.35,10.0,12,Business,South,45640.5
+LAP0292,ASUS,TUF Gaming F15,Intel i7,16,SSD,512,AMD Radeon,15.6,Windows 11,2.11,8.2,6,Professional,West,69358.55
+LAP0293,ASUS,ZenBook 14,Intel i5,8,SSD,1024,Integrated,15.6,Windows 11,1.6,5.9,12,Student,West,45924.91
+LAP0294,ASUS,VivoBook 15,Intel i5,16,HDD,512,NVIDIA GTX,17.3,Windows 11,2.31,8.8,24,Student,West,56400.26
+LAP0295,ASUS,TUF Gaming F15,AMD Ryzen 7,64,SSD,512,AMD Radeon,13.3,Windows 11,1.11,7.1,24,Gaming,East,99183.62
+LAP0296,ASUS,TUF Gaming F15,AMD Ryzen 5,16,SSD,1024,NVIDIA RTX,17.3,Linux,2.16,10.2,6,Student,North,74458.96
+LAP0297,ASUS,VivoBook 15,AMD Ryzen 7,16,HDD,256,AMD Radeon,16.0,Windows 11,1.7,7.2,6,Professional,South,63625.25
+LAP0298,ASUS,TUF Gaming F15,Intel i3,8,HDD,1024,AMD Radeon,13.3,Windows 11,1.49,9.6,24,Student,South,45959.9
+LAP0299,ASUS,TUF Gaming F15,Intel i3,32,SSD,512,Integrated,14.0,Windows 11,1.31,9.0,6,Student,North,60234.93
+LAP0300,ASUS,ZenBook 14,AMD Ryzen 3,32,SSD,512,Integrated,17.3,Windows 11,2.66,11.9,6,Student,South,57410.38
+LAP0301,ASUS,TUF Gaming F15,Intel i7,16,SSD,2048,NVIDIA GTX,15.6,Linux,1.77,10.7,6,Professional,South,81846.57
+LAP0302,ASUS,ZenBook 14,Intel i3,16,SSD,512,NVIDIA RTX,13.3,Windows 11,1.25,9.7,12,Professional,West,61056.24
+LAP0303,ASUS,TUF Gaming F15,Intel i5,8,SSD,256,Integrated,14.0,Linux,1.53,8.3,6,Student,East,44939.87
+LAP0304,ASUS,ZenBook 14,AMD Ryzen 3,8,SSD,512,NVIDIA RTX,13.3,Linux,1.14,5.9,12,Professional,North,60323.72
+LAP0305,ASUS,ZenBook 14,AMD Ryzen 7,8,SSD,512,Integrated,13.3,Windows 11,1.37,9.7,24,Student,West,59482.99
+LAP0306,ASUS,ZenBook 14,AMD Ryzen 5,8,SSD,1024,AMD Radeon,17.3,Windows 11,2.07,10.5,12,Professional,West,59105.02
+LAP0307,ASUS,TUF Gaming F15,Intel i7,8,SSD,1024,Integrated,15.6,Windows 11,2.17,6.4,24,Gaming,South,69326.54
+LAP0308,ASUS,TUF Gaming F15,AMD Ryzen 7,8,SSD,256,AMD Radeon,17.3,Windows 11,2.32,9.1,6,Student,South,54914.98
+LAP0309,ASUS,TUF Gaming F15,Intel i5,8,SSD,256,AMD Radeon,15.6,Linux,1.64,6.7,24,Gaming,East,47038.99
+LAP0310,ASUS,TUF Gaming F15,AMD Ryzen 3,8,SSD,256,NVIDIA GTX,16.0,Windows 11,2.17,7.8,24,Business,West,37667.18
+LAP0311,Acer,Swift 3,Intel i5,16,SSD,512,Integrated,15.6,Windows 11,1.99,6.5,24,Professional,South,40597.48
+LAP0312,Acer,Swift 3,AMD Ryzen 7,16,SSD,1024,Integrated,16.0,Windows 11,1.69,7.8,24,Business,East,64521.55
+LAP0313,Acer,Swift 3,Intel i7,16,SSD,256,Integrated,13.3,Windows 11,1.52,11.1,6,Gaming,North,58291.42
+LAP0314,Acer,Swift 3,Intel i5,8,SSD,256,Integrated,13.3,Windows 11,1.51,9.3,24,Student,West,36237.84
+LAP0315,Acer,Aspire 7,Intel i7,16,HDD,1024,AMD Radeon,16.0,Windows 11,1.66,10.5,24,Gaming,North,68451.7
+LAP0316,Acer,Swift 3,Intel i7,16,HDD,512,Integrated,14.0,Windows 11,1.48,6.4,6,Student,North,54671.57
+LAP0317,Acer,Aspire 5,AMD Ryzen 5,8,SSD,512,Integrated,15.6,Windows 11,1.76,5.8,6,Professional,South,41645.84
+LAP0318,Acer,Aspire 5,Intel i5,8,SSD,512,AMD Radeon,17.3,Linux,2.51,7.3,24,Student,North,39180.85
+LAP0319,Acer,Aspire 7,Intel i5,32,SSD,256,NVIDIA GTX,16.0,Windows 11,2.18,6.9,12,Professional,South,56035.8
+LAP0320,Acer,Aspire 5,Intel i7,16,SSD,256,NVIDIA GTX,14.0,Windows 11,1.14,9.7,6,Student,North,60991.41
+LAP0321,Acer,Swift 3,Intel i5,8,SSD,1024,Integrated,13.3,Windows 11,1.34,8.6,6,Professional,East,43013.53
+LAP0322,Acer,Aspire 5,Intel i3,8,SSD,512,NVIDIA GTX,17.3,Windows 11,2.12,6.6,6,Professional,East,36255.26
+LAP0323,Acer,Aspire 7,AMD Ryzen 3,16,HDD,512,Integrated,13.3,Windows 11,1.21,9.4,12,Gaming,North,28895.06
+LAP0324,Acer,Swift 3,Intel i5,16,SSD,1024,Integrated,17.3,Windows 11,2.21,10.2,12,Gaming,West,55992.79
+LAP0325,Acer,Swift 3,Intel i5,8,HDD,1024,Integrated,16.0,Windows 11,2.08,9.4,6,Professional,West,30049.97
+LAP0326,Acer,Swift 3,AMD Ryzen 5,8,SSD,512,NVIDIA RTX,17.3,Windows 11,2.66,11.3,24,Professional,East,51113.2
+LAP0327,Acer,Aspire 7,Intel i5,8,SSD,1024,Integrated,15.6,Windows 11,1.91,10.3,24,Professional,East,44788.55
+LAP0328,Acer,Swift 3,Intel i5,32,HDD,512,Integrated,16.0,Windows 11,1.68,5.5,24,Business,West,51139.53
+LAP0329,Acer,Aspire 5,Intel i7,16,HDD,512,Integrated,14.0,Windows 11,1.31,9.3,12,Gaming,East,57385.59
+LAP0330,Acer,Swift 3,Intel i7,8,HDD,512,AMD Radeon,17.3,Windows 11,2.39,7.9,24,Professional,South,53404.6
+LAP0331,Acer,Aspire 5,Intel i7,8,SSD,1024,Integrated,14.0,Windows 11,1.32,10.0,6,Student,East,57521.94
+LAP0332,Acer,Aspire 7,AMD Ryzen 5,16,HDD,256,NVIDIA GTX,13.3,Windows 11,1.5,10.9,12,Gaming,East,41539.41
+LAP0333,Acer,Aspire 7,Intel i3,16,HDD,1024,Integrated,17.3,Windows 11,2.52,7.4,24,Student,North,33918.17
+LAP0334,Acer,Aspire 7,AMD Ryzen 3,16,SSD,1024,Integrated,14.0,Windows 11,1.12,9.4,24,Business,North,39529.82
+LAP0335,Acer,Aspire 7,AMD Ryzen 3,64,SSD,256,NVIDIA GTX,16.0,Windows 11,1.75,8.1,24,Student,West,65965.09
+LAP0336,Acer,Swift 3,AMD Ryzen 5,8,SSD,1024,Integrated,15.6,Windows 11,1.74,10.8,6,Professional,North,42915.29
+LAP0337,Acer,Swift 3,Intel i7,8,SSD,512,Integrated,13.3,Windows 11,1.35,7.7,6,Business,South,48862.31
+LAP0338,Acer,Swift 3,AMD Ryzen 5,16,SSD,2048,NVIDIA GTX,16.0,Windows 11,2.04,10.4,12,Business,West,64130.81
+LAP0339,Acer,Swift 3,Intel i7,16,SSD,512,Integrated,14.0,Windows 11,1.5,8.2,12,Professional,West,61435.24
+LAP0340,Acer,Aspire 7,AMD Ryzen 5,8,HDD,1024,Integrated,13.3,Windows 11,1.38,6.7,12,Professional,South,39040.29
+LAP0341,Acer,Aspire 5,Intel i5,8,SSD,1024,AMD Radeon,14.0,Windows 11,1.54,6.8,6,Business,South,44877.06
+LAP0342,Acer,Swift 3,Intel i5,16,SSD,512,AMD Radeon,13.3,Windows 11,1.48,9.0,6,Business,South,51673.64
+LAP0343,Acer,Aspire 7,AMD Ryzen 3,32,SSD,1024,AMD Radeon,14.0,Windows 11,1.59,11.5,12,Professional,North,60679.4
+LAP0344,Acer,Aspire 7,Intel i3,16,SSD,512,Integrated,14.0,Windows 11,1.33,6.3,24,Professional,West,34295.81
+LAP0345,Acer,Aspire 7,Intel i3,8,HDD,512,NVIDIA GTX,14.0,Windows 11,1.37,7.0,12,Gaming,South,29457.38
+LAP0346,Acer,Aspire 7,Intel i5,16,HDD,512,Integrated,15.6,Windows 11,1.82,9.2,24,Business,West,37621.27
+LAP0347,Acer,Swift 3,AMD Ryzen 5,32,HDD,256,NVIDIA GTX,14.0,Windows 11,1.34,5.6,12,Professional,South,50060.67
+LAP0348,Acer,Swift 3,AMD Ryzen 5,16,SSD,512,NVIDIA GTX,14.0,Windows 11,1.13,10.8,12,Business,West,49243.46
+LAP0349,Acer,Aspire 7,Intel i7,16,SSD,1024,Integrated,15.6,Windows 11,1.51,6.3,24,Gaming,North,58344.05
+LAP0350,Acer,Aspire 7,Intel i7,64,SSD,512,Integrated,17.3,Windows 11,2.39,10.3,6,Professional,South,80616.54
+LAP0351,Acer,Aspire 7,Intel i7,16,SSD,1024,AMD Radeon,17.3,Linux,2.46,11.0,6,Student,South,68976.13
+LAP0352,Acer,Aspire 7,Intel i5,8,SSD,512,Integrated,16.0,Windows 11,2.05,11.6,24,Professional,East,41216.15
+LAP0353,Acer,Swift 3,Intel i7,16,SSD,512,Integrated,13.3,Windows 11,1.21,8.1,6,Student,East,63436.52
+LAP0354,Acer,Aspire 7,Intel i7,16,SSD,256,Integrated,17.3,Windows 11,2.12,9.8,12,Student,North,50857.33
+LAP0355,Acer,Aspire 5,AMD Ryzen 5,16,HDD,256,Integrated,15.6,Windows 11,2.1,7.6,12,Professional,South,35491.48
+LAP0356,Acer,Aspire 7,Intel i7,16,HDD,512,AMD Radeon,17.3,Windows 11,2.35,9.7,24,Student,South,53065.67
+LAP0357,Acer,Aspire 5,Intel i7,8,SSD,512,Integrated,15.6,Windows 11,1.51,8.9,6,Student,East,49493.74
+LAP0358,Acer,Aspire 7,Intel i7,16,SSD,512,Integrated,15.6,Windows 11,1.92,10.7,24,Professional,East,55278.09
+LAP0359,Acer,Aspire 7,AMD Ryzen 5,16,SSD,512,Integrated,14.0,Windows 11,1.23,8.2,6,Professional,South,50029.28
+LAP0360,Acer,Aspire 5,Intel i5,8,SSD,1024,NVIDIA RTX,14.0,Windows 11,1.24,9.6,24,Professional,East,56854.51
+LAP0361,Apple,MacBook Air,Apple M-Series,8,SSD,256,Integrated,17.3,macOS,2.02,11.8,12,Student,East,106422.12
+LAP0362,Apple,MacBook Air,Apple M-Series,16,SSD,512,Integrated,13.3,macOS,1.35,7.7,12,Business,East,123437.78
+LAP0363,Apple,MacBook Air,Apple M-Series,64,HDD,512,Integrated,15.6,macOS,1.56,10.4,6,Student,East,131800.43
+LAP0364,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,15.6,macOS,2.07,10.9,6,Gaming,North,110311.17
+LAP0365,Apple,MacBook Air,Apple M-Series,8,HDD,2048,Integrated,13.3,macOS,1.2,10.3,6,Professional,North,121009.27
+LAP0366,Apple,MacBook Pro,Apple M-Series,16,HDD,512,Integrated,15.6,macOS,1.61,10.2,24,Gaming,West,108907.84
+LAP0367,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,15.6,macOS,2.12,11.1,6,Gaming,North,109615.87
+LAP0368,Apple,MacBook Air,Apple M-Series,16,SSD,512,Integrated,15.6,macOS,1.91,8.1,6,Student,West,114877.3
+LAP0369,Apple,MacBook Air,Apple M-Series,16,SSD,512,Integrated,15.6,macOS,2.04,7.1,12,Student,South,115210.36
+LAP0370,Apple,MacBook Air,Apple M-Series,32,SSD,2048,Integrated,13.3,macOS,1.28,6.5,24,Business,North,135289.53
+LAP0371,Apple,MacBook Pro,Apple M-Series,16,SSD,512,Integrated,16.0,macOS,2.01,5.6,12,Professional,North,114923.95
+LAP0372,Apple,MacBook Pro,Apple M-Series,8,SSD,256,Integrated,17.3,macOS,2.24,10.0,6,Professional,South,106338.55
+LAP0373,Apple,MacBook Air,Apple M-Series,8,HDD,512,Integrated,13.3,macOS,1.37,8.4,12,Professional,East,112679.46
+LAP0374,Apple,MacBook Pro,Apple M-Series,8,HDD,512,Integrated,14.0,macOS,1.54,9.5,12,Business,North,110753.97
+LAP0375,Apple,MacBook Pro,Apple M-Series,8,SSD,256,Integrated,14.0,macOS,1.36,8.7,24,Student,South,115427.65
+LAP0376,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,13.3,macOS,1.36,5.9,6,Student,West,108344.52
+LAP0377,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,13.3,macOS,1.39,10.9,24,Professional,South,114763.14
+LAP0378,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,13.3,macOS,1.57,6.9,12,Gaming,West,112066.07
+LAP0379,Apple,MacBook Pro,Apple M-Series,16,SSD,512,Integrated,17.3,macOS,2.59,11.3,12,Business,West,123400.18
+LAP0380,Apple,MacBook Air,Apple M-Series,16,SSD,512,Integrated,13.3,macOS,1.52,6.0,6,Gaming,West,114273.57
+LAP0381,Apple,MacBook Pro,Apple M-Series,8,SSD,512,Integrated,14.0,macOS,1.2,9.8,24,Professional,North,108061.2
+LAP0382,Apple,MacBook Air,Apple M-Series,16,HDD,512,Integrated,17.3,macOS,2.29,8.5,24,Professional,West,108132.08
+LAP0383,Apple,MacBook Pro,Apple M-Series,8,SSD,256,Integrated,17.3,macOS,2.27,6.5,24,Professional,South,96074.91
+LAP0384,Apple,MacBook Pro,Apple M-Series,32,SSD,512,Integrated,15.6,macOS,1.79,9.6,24,Student,North,122338.88
+LAP0385,Apple,MacBook Pro,Apple M-Series,16,SSD,512,Integrated,15.6,macOS,2.17,8.4,12,Student,West,111856.3
+LAP0386,Apple,MacBook Air,Apple M-Series,64,SSD,512,Integrated,15.6,macOS,1.5,11.9,6,Gaming,West,137164.46
+LAP0387,Apple,MacBook Pro,Apple M-Series,16,HDD,1024,Integrated,17.3,macOS,2.41,9.2,24,Student,West,116165.83
+LAP0388,Apple,MacBook Pro,Apple M-Series,16,SSD,256,Integrated,15.6,macOS,2.12,7.1,12,Business,West,117822.9
+LAP0389,Apple,MacBook Air,Apple M-Series,16,SSD,512,Integrated,13.3,macOS,1.46,10.7,6,Professional,West,121158.25
+LAP0390,Apple,MacBook Pro,Apple M-Series,16,HDD,512,Integrated,13.3,macOS,1.49,11.5,12,Student,East,110829.84
+LAP0391,Apple,MacBook Air,Apple M-Series,8,SSD,1024,Integrated,17.3,macOS,2.74,9.6,24,Professional,South,109571.25
+LAP0392,Apple,MacBook Air,Apple M-Series,16,HDD,512,Integrated,15.6,macOS,1.85,6.9,6,Business,East,112404.12
+LAP0393,Apple,MacBook Air,Apple M-Series,64,SSD,1024,Integrated,14.0,macOS,1.32,10.6,6,Student,West,138366.83
+LAP0394,Apple,MacBook Pro,Apple M-Series,16,HDD,1024,Integrated,15.6,macOS,1.56,8.8,24,Student,North,121997.41
+LAP0395,Apple,MacBook Pro,Apple M-Series,16,HDD,256,Integrated,17.3,macOS,2.16,9.5,24,Professional,North,110745.93
+LAP0396,Apple,MacBook Pro,Apple M-Series,8,HDD,1024,Integrated,17.3,macOS,2.07,9.9,12,Professional,North,106902.01
+LAP0397,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,15.6,macOS,1.62,7.8,12,Professional,East,102032.41
+LAP0398,Apple,MacBook Air,Apple M-Series,8,SSD,1024,Integrated,15.6,macOS,1.61,10.2,6,Student,West,118388.04
+LAP0399,Apple,MacBook Air,Apple M-Series,8,HDD,512,Integrated,15.6,macOS,1.51,10.0,6,Student,East,103940.71
+LAP0400,Apple,MacBook Air,Apple M-Series,8,SSD,512,Integrated,14.0,macOS,1.37,10.4,24,Professional,North,116193.91
+LAP0401,MSI,Katana 15,AMD Ryzen 3,32,SSD,512,Integrated,14.0,Windows 11,1.13,6.8,24,Professional,West,58402.13
+LAP0402,MSI,Thin GF63,Intel i7,16,SSD,512,Integrated,15.6,Linux,2.1,5.6,24,Professional,East,70879.86
+LAP0403,MSI,Modern 14,Intel i7,16,SSD,512,AMD Radeon,14.0,Windows 11,1.2,11.8,24,Gaming,West,82600.65
+LAP0404,MSI,Modern 14,Intel i3,16,HDD,1024,Integrated,15.6,Linux,1.98,7.8,12,Student,South,50788.46
+LAP0405,MSI,Modern 14,AMD Ryzen 5,32,SSD,1024,AMD Radeon,17.3,Windows 11,2.76,7.0,12,Gaming,North,82551.76
+LAP0406,MSI,Modern 14,Intel i3,16,SSD,512,AMD Radeon,16.0,Windows 11,1.67,6.5,12,Gaming,South,59379.87
+LAP0407,MSI,Modern 14,Intel i7,16,SSD,512,NVIDIA GTX,14.0,Windows 11,1.25,10.1,24,Gaming,East,78772.76
+LAP0408,MSI,Katana 15,AMD Ryzen 7,32,SSD,1024,Integrated,13.3,Linux,1.38,11.7,6,Student,North,89936.34
+LAP0409,MSI,Katana 15,AMD Ryzen 5,8,SSD,512,AMD Radeon,15.6,Windows 11,1.61,6.7,6,Student,South,62118.38
+LAP0410,MSI,Modern 14,AMD Ryzen 3,8,SSD,256,NVIDIA GTX,16.0,Windows 11,1.59,11.0,12,Business,South,48892.02
+LAP0411,MSI,Katana 15,Intel i5,8,SSD,512,Integrated,13.3,Windows 11,1.56,11.7,6,Business,North,57779.32
+LAP0412,MSI,Katana 15,AMD Ryzen 5,64,SSD,1024,AMD Radeon,15.6,Windows 11,2.11,11.3,12,Professional,West,93516.16
+LAP0413,MSI,Thin GF63,AMD Ryzen 3,8,SSD,1024,NVIDIA RTX,17.3,Windows 11,2.43,9.7,24,Business,West,60673.54
+LAP0414,MSI,Katana 15,Intel i7,64,HDD,512,Integrated,13.3,Windows 11,1.38,8.9,24,Gaming,North,102326.6
+LAP0415,MSI,Katana 15,Intel i5,16,HDD,512,Integrated,15.6,Windows 11,1.93,5.9,24,Gaming,East,55072.46
+LAP0416,MSI,Thin GF63,AMD Ryzen 5,8,SSD,1024,NVIDIA RTX,17.3,Windows 11,2.11,8.2,12,Student,East,75208.86
+LAP0417,MSI,Thin GF63,AMD Ryzen 3,16,HDD,512,Integrated,14.0,Windows 11,1.46,6.3,6,Business,South,56557.23
+LAP0418,MSI,Modern 14,Intel i3,64,HDD,512,NVIDIA RTX,16.0,Windows 11,1.89,5.8,6,Gaming,North,89097.59
+LAP0419,MSI,Thin GF63,Intel i5,8,SSD,512,NVIDIA RTX,16.0,Windows 11,1.7,6.7,6,Gaming,West,74883.89
+LAP0420,MSI,Modern 14,AMD Ryzen 3,32,HDD,512,Integrated,17.3,Windows 11,2.71,7.0,24,Business,East,57880.88
+LAP0421,MSI,Thin GF63,Intel i7,8,SSD,512,NVIDIA GTX,17.3,Windows 11,2.66,6.8,6,Student,South,82850.42
+LAP0422,MSI,Modern 14,Intel i3,16,SSD,512,NVIDIA GTX,13.3,Windows 11,1.15,12.0,6,Business,North,68476.08
+LAP0423,MSI,Katana 15,AMD Ryzen 7,8,SSD,1024,Integrated,15.6,Windows 11,2.13,10.8,12,Business,West,68456.71
+LAP0424,MSI,Thin GF63,Intel i5,8,SSD,512,NVIDIA GTX,14.0,Windows 11,1.45,9.5,6,Professional,West,65949.12
+LAP0425,MSI,Thin GF63,Intel i7,64,SSD,512,AMD Radeon,15.6,Windows 11,1.68,9.2,24,Professional,North,107481.24
+LAP0426,MSI,Thin GF63,AMD Ryzen 3,16,SSD,1024,NVIDIA RTX,14.0,Windows 11,1.45,11.9,6,Student,East,83735.89
+LAP0427,MSI,Katana 15,AMD Ryzen 3,16,SSD,2048,NVIDIA RTX,13.3,Windows 11,1.27,9.1,24,Student,North,81234.89
+LAP0428,MSI,Modern 14,AMD Ryzen 3,8,SSD,512,Integrated,13.3,Windows 11,1.44,7.7,24,Professional,West,50664.28
+LAP0429,MSI,Katana 15,AMD Ryzen 5,32,SSD,512,NVIDIA RTX,13.3,Windows 11,1.42,8.6,24,Professional,South,99339.96
+LAP0430,MSI,Thin GF63,Intel i7,8,SSD,512,AMD Radeon,15.6,Windows 11,1.89,5.6,24,Business,South,64662.72
+LAP0431,MSI,Thin GF63,Intel i3,8,HDD,512,NVIDIA RTX,14.0,Windows 11,1.39,8.0,24,Student,South,54252.39
+LAP0432,MSI,Modern 14,AMD Ryzen 5,8,SSD,512,Integrated,15.6,Windows 11,1.82,11.7,6,Professional,North,46400.51
+LAP0433,MSI,Modern 14,Intel i3,32,SSD,512,NVIDIA RTX,16.0,Windows 11,2.13,6.5,12,Gaming,South,78364.72
+LAP0434,MSI,Thin GF63,AMD Ryzen 5,16,SSD,1024,AMD Radeon,14.0,Windows 11,1.2,5.7,12,Business,West,79805.99
+LAP0435,MSI,Katana 15,Intel i3,16,SSD,256,NVIDIA GTX,13.3,Linux,1.15,10.5,24,Student,South,62337.66
+LAP0436,MSI,Katana 15,AMD Ryzen 3,8,SSD,512,Integrated,13.3,Windows 11,1.24,6.5,6,Student,West,47910.48
+LAP0437,MSI,Katana 15,Intel i5,8,SSD,1024,Integrated,17.3,Windows 11,2.2,6.0,24,Gaming,East,63905.82
+LAP0438,MSI,Modern 14,Intel i3,8,SSD,512,AMD Radeon,16.0,Windows 11,1.77,10.1,24,Professional,East,43366.59
+LAP0439,MSI,Thin GF63,AMD Ryzen 3,16,SSD,512,NVIDIA RTX,13.3,Windows 11,1.59,10.4,12,Professional,West,64911.83
+LAP0440,MSI,Thin GF63,AMD Ryzen 5,16,SSD,512,Integrated,16.0,Linux,1.83,11.7,6,Gaming,South,62327.09
+LAP0441,MSI,Katana 15,AMD Ryzen 7,16,HDD,1024,NVIDIA GTX,16.0,Windows 11,1.84,5.9,6,Professional,East,80305.34
+LAP0442,MSI,Katana 15,AMD Ryzen 5,16,SSD,512,Integrated,13.3,Windows 11,1.26,9.7,12,Professional,East,65429.92
+LAP0443,MSI,Modern 14,AMD Ryzen 3,8,SSD,512,Integrated,15.6,Windows 11,1.65,10.0,12,Business,East,35273.56
+LAP0444,MSI,Thin GF63,Intel i7,8,SSD,512,NVIDIA GTX,17.3,Windows 11,2.67,6.2,24,Professional,West,73176.01
+LAP0445,MSI,Thin GF63,AMD Ryzen 5,8,HDD,256,AMD Radeon,16.0,Windows 11,1.73,9.7,6,Student,North,45706.94
+LAP0446,MSI,Modern 14,AMD Ryzen 5,8,SSD,256,NVIDIA GTX,16.0,Linux,1.87,8.0,24,Professional,North,60590.58
+LAP0447,MSI,Katana 15,AMD Ryzen 3,32,SSD,512,NVIDIA GTX,15.6,Windows 11,2.19,9.3,24,Gaming,East,71226.74
+LAP0448,MSI,Modern 14,AMD Ryzen 5,32,SSD,2048,Integrated,17.3,Windows 11,2.66,7.8,12,Gaming,North,82347.59
+LAP0449,MSI,Katana 15,Intel i7,16,HDD,512,NVIDIA GTX,17.3,Windows 11,2.17,6.6,6,Student,East,73264.65
+LAP0450,MSI,Modern 14,AMD Ryzen 5,8,HDD,1024,Integrated,14.0,Windows 11,1.11,9.7,6,Business,East,53810.59
+LAP0451,Samsung,Galaxy Book3,AMD Ryzen 3,8,SSD,1024,Integrated,17.3,Linux,2.74,9.6,12,Professional,East,36294.99
+LAP0452,Samsung,Galaxy Book Pro,Intel i5,8,HDD,512,Integrated,14.0,Windows 11,1.46,7.3,24,Professional,West,40875.19
+LAP0453,Samsung,Galaxy Book Pro,AMD Ryzen 7,8,SSD,512,NVIDIA RTX,13.3,Windows 11,1.17,10.3,12,Professional,West,68141.28
+LAP0454,Samsung,Galaxy Book Pro,Intel i7,16,SSD,512,Integrated,13.3,Windows 11,1.44,9.0,24,Student,West,65845.26
+LAP0455,Samsung,Galaxy Book Pro,AMD Ryzen 7,16,HDD,1024,Integrated,15.6,Windows 11,1.79,11.7,12,Student,West,56190.89
+LAP0456,Samsung,Galaxy Book Pro,AMD Ryzen 3,16,SSD,512,Integrated,16.0,Windows 11,1.9,9.2,24,Gaming,West,35009.12
+LAP0457,Samsung,Galaxy Book,Intel i5,32,HDD,512,Integrated,17.3,Windows 11,2.22,11.1,6,Business,North,51095.41
+LAP0458,Samsung,Galaxy Book Pro,AMD Ryzen 7,8,SSD,256,NVIDIA GTX,14.0,Windows 11,1.34,10.7,6,Student,West,51918.46
+LAP0459,Samsung,Galaxy Book3,AMD Ryzen 7,16,SSD,1024,NVIDIA RTX,16.0,Windows 11,1.67,8.4,24,Student,South,79085.63
+LAP0460,Samsung,Galaxy Book3,Intel i3,8,HDD,512,NVIDIA RTX,15.6,Windows 11,1.83,11.7,24,Student,East,38186.6
+LAP0461,Samsung,Galaxy Book3,Intel i7,8,HDD,1024,AMD Radeon,16.0,Windows 11,1.97,11.8,24,Gaming,West,68418.31
+LAP0462,Samsung,Galaxy Book3,AMD Ryzen 7,8,SSD,1024,AMD Radeon,15.6,Windows 11,1.69,10.7,12,Business,East,62735.74
+LAP0463,Samsung,Galaxy Book Pro,Intel i7,16,HDD,1024,Integrated,15.6,Windows 11,1.97,12.0,12,Professional,West,57428.29
+LAP0464,Samsung,Galaxy Book,AMD Ryzen 5,8,HDD,512,Integrated,15.6,Windows 11,1.68,5.7,24,Student,North,38539.96
+LAP0465,Samsung,Galaxy Book,AMD Ryzen 7,8,SSD,1024,NVIDIA RTX,16.0,Windows 11,1.96,11.3,24,Business,North,74071.57
+LAP0466,Samsung,Galaxy Book Pro,AMD Ryzen 5,16,SSD,1024,Integrated,16.0,Windows 11,2.15,7.3,12,Business,South,53582.69
+LAP0467,Samsung,Galaxy Book,Intel i5,8,SSD,512,Integrated,15.6,Windows 11,2.17,7.2,12,Student,North,41340.8
+LAP0468,Samsung,Galaxy Book,AMD Ryzen 3,8,SSD,1024,Integrated,17.3,Windows 11,2.51,11.4,24,Student,West,39985.83
+LAP0469,Samsung,Galaxy Book,Intel i3,8,SSD,1024,Integrated,13.3,Windows 11,1.57,9.8,12,Student,South,36189.79
+LAP0470,Samsung,Galaxy Book3,AMD Ryzen 7,32,HDD,512,Integrated,16.0,Windows 11,2.09,10.6,6,Professional,West,61985.87
+LAP0471,Samsung,Galaxy Book3,Intel i5,8,SSD,512,NVIDIA RTX,15.6,Windows 11,1.98,8.1,24,Gaming,West,55339.32
+LAP0472,Samsung,Galaxy Book3,Intel i5,16,SSD,1024,Integrated,14.0,Windows 11,1.19,5.8,12,Business,South,43218.4
+LAP0473,Samsung,Galaxy Book Pro,AMD Ryzen 3,8,SSD,256,NVIDIA GTX,16.0,Windows 11,2.01,6.4,6,Student,North,26758.69
+LAP0474,Samsung,Galaxy Book3,Intel i7,8,SSD,512,Integrated,13.3,Windows 11,1.12,5.9,24,Student,West,62727.98
+LAP0475,Samsung,Galaxy Book Pro,Intel i5,32,SSD,1024,Integrated,14.0,Windows 11,1.47,7.0,6,Student,North,71979.4
+LAP0476,Samsung,Galaxy Book Pro,Intel i7,16,SSD,512,AMD Radeon,14.0,Windows 11,1.11,9.6,12,Business,West,68456.39
+LAP0477,Samsung,Galaxy Book3,Intel i7,16,SSD,256,NVIDIA GTX,17.3,Windows 11,2.64,6.9,6,Professional,East,65171.56
+LAP0478,Samsung,Galaxy Book,Intel i5,8,SSD,1024,NVIDIA GTX,13.3,Linux,1.4,7.7,6,Student,East,54977.68
+LAP0479,Samsung,Galaxy Book,Intel i5,8,SSD,512,Integrated,13.3,Windows 11,1.5,9.6,12,Business,West,55432.01
+LAP0480,Samsung,Galaxy Book Pro,AMD Ryzen 5,32,SSD,1024,Integrated,15.6,Windows 11,1.79,10.7,12,Business,North,70615.14
+LAP0481,Samsung,Galaxy Book Pro,Intel i5,8,SSD,256,Integrated,13.3,Windows 11,1.4,10.2,24,Gaming,South,36001.42
+LAP0482,Samsung,Galaxy Book,Intel i5,8,SSD,512,Integrated,17.3,Windows 11,2.29,10.4,24,Professional,East,34277.12
+LAP0483,Samsung,Galaxy Book Pro,AMD Ryzen 5,8,SSD,1024,Integrated,16.0,Windows 11,1.85,6.5,6,Student,South,40348.04
+LAP0484,Samsung,Galaxy Book,Intel i5,16,SSD,1024,Integrated,13.3,Windows 11,1.47,11.5,6,Student,West,54492.64
+LAP0485,Samsung,Galaxy Book3,Intel i7,16,SSD,512,AMD Radeon,16.0,Windows 11,1.64,9.9,12,Student,West,63173.47
+LAP0486,Samsung,Galaxy Book,Intel i5,32,SSD,512,NVIDIA RTX,13.3,Windows 11,1.34,8.6,12,Student,East,71176.91
+LAP0487,Samsung,Galaxy Book3,Intel i5,8,SSD,512,Integrated,14.0,Windows 11,1.27,5.7,24,Student,North,38667.47
+LAP0488,Samsung,Galaxy Book3,Intel i3,16,HDD,512,Integrated,17.3,Windows 11,2.13,10.7,24,Gaming,North,27710.08
+LAP0489,Samsung,Galaxy Book3,Intel i3,64,HDD,512,Integrated,15.6,Windows 11,1.51,8.3,6,Student,East,65169.19
+LAP0490,Samsung,Galaxy Book,Intel i7,8,SSD,512,NVIDIA GTX,16.0,Windows 11,2.19,5.8,12,Business,West,64544.43
+LAP0491,Samsung,Galaxy Book3,Intel i7,16,SSD,256,NVIDIA RTX,14.0,Windows 11,1.14,10.4,24,Business,North,76541.17
+LAP0492,Samsung,Galaxy Book3,Intel i5,8,HDD,512,NVIDIA GTX,14.0,Windows 11,1.45,11.1,24,Professional,East,50236.8
+LAP0493,Samsung,Galaxy Book Pro,Intel i7,8,SSD,1024,NVIDIA RTX,16.0,Windows 11,1.99,5.5,24,Student,South,76925.21
+LAP0494,Samsung,Galaxy Book Pro,Intel i7,16,SSD,512,NVIDIA RTX,14.0,Windows 11,1.49,6.0,12,Business,West,77701.27
+LAP0495,Samsung,Galaxy Book3,Intel i7,8,SSD,512,Integrated,17.3,Linux,2.03,7.9,24,Professional,West,60431.11
+LAP0496,Samsung,Galaxy Book Pro,Intel i7,8,SSD,512,Integrated,16.0,Windows 11,2.02,10.4,24,Student,North,56002.15
+LAP0497,Samsung,Galaxy Book3,Intel i5,8,HDD,256,Integrated,15.6,Windows 11,1.82,8.8,6,Professional,South,25000.0
+LAP0498,Samsung,Galaxy Book,Intel i7,16,SSD,2048,NVIDIA GTX,14.0,Windows 11,1.55,8.5,6,Professional,North,82720.53
+LAP0499,Samsung,Galaxy Book3,Intel i5,8,SSD,512,Integrated,14.0,Linux,1.54,8.9,24,Student,East,37636.77
+LAP0500,Samsung,Galaxy Book Pro,AMD Ryzen 7,8,SSD,512,Integrated,13.3,Windows 11,1.25,5.9,6,Business,South,48354.45
